@@ -1,0 +1,25 @@
+.key {
+    border: 1px solid black;
+    width: 4vw;
+    height: 4vw;
+    border-radius: 0.1em;
+    margin: 0.1em;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.keyboard-row {
+    display: flex;
+    width: auto;
+
+}
+
+.app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
